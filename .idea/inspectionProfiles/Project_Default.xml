@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="student.statistics_info.matplotlib" />
+          <option value="matplotlib" />
+          <option value="numpy" />
+          <option value="StudentScoreManagerSystem.TeacherMenu.var_general_score" />
+          <option value="StudentScoreManagerSystem.TeacherMenu.var_web" />
+          <option value="StudentScoreManagerSystem.TeacherMenu.var_java" />
+          <option value="StudentScoreManagerSystem.TeacherMenu.var_python" />
+          <option value="StudentScoreManagerSystem.TeacherMenu.list_web" />
+          <option value="StudentScoreManagerSystem.TeacherMenu.list_java" />
+          <option value="StudentScoreManagerSystem.TeacherMenu.list_python" />
+          <option value="StudentScoreManagerSystem.TeacherMenu.list_mysql_score" />
+          <option value="StudentScoreManagerSystem.TeacherMenu.list_general_score" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="RegExpAnonymousGroup" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
